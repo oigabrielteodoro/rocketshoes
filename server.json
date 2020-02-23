@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Air Jordan Mars 270",
+      "price": 799.99,
+      "image": "https://artwalk.vteximg.com.br/arquivos/ids/217668-1000-1000/Tenis-Jordan-Mars-270-Masculino-Multicolor.jpg?v=637075418321570000"
+    },
+    {
+      "id": 2,
+      "title": "Air Jordan 5 Retro SE",
+      "price": 999.99,
+      "image": "https://artwalk.vteximg.com.br/arquivos/ids/216068-1000-1000/Tenis-Air-Jordan-5-Retro-SE-Masculino-Amarelo.jpg?v=637024279098770000"
+    },
+    {
+      "id": 3,
+      "title": "Air Jordan 1 Mid",
+      "price": 499.99,
+      "image": "https://artwalk.vteximg.com.br/arquivos/ids/217330-1000-1000/Tenis-Nike-Air-Jordan-1-MID-Masculino-Laranja.jpg?v=637066699540700000"
+    },
+    {
+      "id": 5,
+      "title": "Air Jordan Legacy 312 Low",
+      "price": 499.99,
+      "image": "https://artwalk.vteximg.com.br/arquivos/ids/216352-1000-1000/Tenis-Air-Jordan-Legacy-312-Low-Masculino-Vermelho.jpg?v=637032023144870000"
+    },
+    {
+      "id": 6,
+      "title": "Air Jordan Proto-Max 720",
+      "price": 799.99,
+      "image": "https://artwalk.vteximg.com.br/arquivos/ids/215812-1000-1000/Tenis-Jordan-Proto-Max-720-Masculino-Bege.jpg?v=637019072574730000"
+    },
+    {
+      "id": 4,
+      "title": "Air Jordan 6 Refletivo",
+      "price": 999.99,
+      "image": "https://artwalk.vteximg.com.br/arquivos/ids/213730-1000-1000/Tenis-Air-Jordan-6-Masculino-Cinza.jpg?v=636952744169400000"
+    }
+  ]
+}
